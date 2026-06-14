@@ -1,4 +1,4 @@
-#include "serialbuffer.h"
+#include "serial_buffer.h"
 
 PhoenixJack_serialbuffer port0(&Serial);   // Serial Monitor
 PhoenixJack_serialbuffer port1(&Serial1);  // Pin 2 = RX0
