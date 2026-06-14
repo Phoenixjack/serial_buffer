@@ -1,5 +1,6 @@
 #pragma once
 #include <stdint.h>
+#include <Arduino.h>
 /*
 TITLE: serial_buffer
 VERSION: 0.0.0
